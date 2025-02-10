@@ -40,7 +40,7 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 
 3. **Run the bot:**
 ```bash
-python bot.py
+python wallet-tracker-telegram-bot.py
 ```
 
 ---
