@@ -27,7 +27,7 @@ pip install python-telegram-bot requests
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/ethereum-wallet-tracker-bot.git
+git clone https://github.com/fd2013/ethereum-wallet-tracker-bot.git
 cd ethereum-wallet-tracker-bot
 ```
 
