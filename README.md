@@ -13,7 +13,7 @@ A simple **Telegram bot** that tracks **Ethereum wallet transactions** using the
 
 ## 📦 Requirements
 - Python 3.7+
-- Telegram Bot Token
+- Telegram Bot Token (Open Telegram and search for @BotFather)
 - Etherscan API Key
 
 ### Install Dependencies
