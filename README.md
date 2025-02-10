@@ -1,4 +1,4 @@
-# Ethereum Wallet Tracker Bot
+# Ethereum Wallet Tracker Telegram Bot
 
 A simple **Telegram bot** that tracks **Ethereum wallet transactions** using the **Etherscan API**. Send an Ethereum address to the bot, and it will reply with the latest transaction details.
 
